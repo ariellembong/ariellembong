@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently intrested in Machine Learning.
+🌱 I’m currently learning in Machine Learning.
 
 Here's my linkedn
 
